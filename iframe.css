@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(128, 250, 14);
+}
+
+.st{
+    text-align: center;
+}
+h1{
+    margin-bottom: 5px;
+    color: yellow;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.gpt{
+    width: 100px;
+}
+.form {
+    width: 900px;
+    height: 1000px;
+    background-color: rgba(14, 99, 124, 0.726);
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    padding-bottom: 30px;
+    margin-left: 200px;
+  }
+ .app{
+    padding-left: 57px;
+ }
+ .styl{
+    padding-left: 51px;
+ }
+ .col-11{
+    padding: 70px;
+ }
+ .col-1{
+    margin-left: 500px;
+ }
+ .sapna{
+    float: right;
+ }
+ 
+

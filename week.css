@@ -1,0 +1,53 @@
+body{
+    background-image: url(./img/himal.jpg);
+}
+.logo{
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+    color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+.active{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: italic;
+}
+.ctn{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: x-large;
+    font-style: italic;
+}
+.app{
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: bold;
+    font-style: italic;
+}
+.navbar{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 20px;
+    color: black;
+}
+.nav-links{
+    display: flex;
+    align-items: center;
+}
+.nav-links li{
+    margin: 0 30px;
+}
+.container{
+    
+}

@@ -1,0 +1,22 @@
+body{
+    margin-left: 550px;
+    margin-top: 150px;
+}
+.form {
+    width: 250px;
+    height: 330px;
+    background-color: darkgray;
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+    padding-bottom: 30px;
+  }
+ .app{
+    padding-left: 57px;
+ }
+ .styl{
+    padding-left: 51px;
+ }
+
+
+ 
